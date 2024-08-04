@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aasutosh Sony</h1>
-<h3 align="center">A passionate frontend developer and UI-Designer currently pursuing B.tech CSE.</h3>
+<h3 align="center">A passionate Frontend Developer and UI-Designer currently pursuing B.tech CSE.</h3>
 
 - 🔭 I’m currently working on [Jwellery Website Design](https://skju.odoo.com/)
 
