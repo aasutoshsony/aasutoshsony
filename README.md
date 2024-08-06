@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aasutosh Sony</h1>
 <h3 align="center">A passionate Frontend Developer and UI-Designer currently pursuing B.tech CSE.</h3>
-
+ 
 - 🔭 I’m currently working on [Jwellery Website Design](https://skju.odoo.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aasutoshsony](https://github.com/aasutoshsony)
