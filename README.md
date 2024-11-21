@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aasutoshsony](https://github.com/aasutoshsony)
 
-- 💬 Ask me about **Css, React, Figma**
+- 💬 Ask me about **Figma, React**
 
 - 📫 How to reach me **aasutoshsony@gmail.com**
 
