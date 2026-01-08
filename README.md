@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs, NextJs, UX, Figma**
 
-- 📫 How to reach me **aasutoshsony@gmail.com**
+- 📫 Want to discuss a project? **aasutoshsony@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aI4g2QFlAk4Lmr9WzjkuwqfUtdlZss8I/view?usp=sharing](https://drive.google.com/file/d/1aI4g2QFlAk4Lmr9WzjkuwqfUtdlZss8I/view?usp=sharing)
 
