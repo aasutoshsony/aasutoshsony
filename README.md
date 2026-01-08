@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aasutosh Sony</h1>
 <h3 align="center">A passionate Full Stack Developer and UX/UI-Designer currently pursuing M.tech CSE.</h3>
  
-- 🔭 I’m currently working on [Jwellery Website Design](https://skjudeploymodel.netlify.app/)
+- 🔭 I’m currently working on [Jewellery E-Commerce Store](https://skjudeploymodel.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aasutoshsony](https://github.com/aasutoshsony)
 
-- 💬 Ask me about **UX**
+- 💬 Ask me about **ReactJs, NextJs, UX, Figma**
 
 - 📫 How to reach me **aasutoshsony@gmail.com**
 
