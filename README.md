@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aasutosh Sony</h1>
-<h3 align="center">A passionate Full Stack Developer and UX/UI-Designer currently pursuing M.tech CSE.</h3>
+<h3 align="center">Passionate AI/ML Engineer | Building intelligent systems with Python, Machine Learning, and Deep Learning | M.Tech (CSE).</h3>
  
 - 🔭 I'm currently exploring **Deep Learning, Large Language Models (LLMs), Transformers, and Generative AI**.
 
